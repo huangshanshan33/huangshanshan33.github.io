@@ -6,7 +6,6 @@ pub: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote S
 pub_date: "2021"
 abstract: >-
   A semisupervised image fusion method for remote sensing using multiscale conditional GANs.
-cover: /assets/images/covers/jstars2021.jpg
 authors:
   - Xin Jin
   - Shanshan Huang†
