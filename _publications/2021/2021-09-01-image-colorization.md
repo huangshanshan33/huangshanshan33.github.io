@@ -6,7 +6,6 @@ pub: "Multimedia Tools and Applications"
 pub_date: "2021"
 abstract: >-
   An improved CycleGAN-based fully automatic image colorization method.
-cover: /assets/images/covers/mta2021.jpg
 authors:
   - Shanshan Huang
   - Qian Jiang
