@@ -35,10 +35,9 @@ portrait_caption: >-
 education:
 - name: Chongqing University
   logo: /assets/images/badges/CQU.png
-  position: >- 
-    Ph.D. in Software Engineering
+  position: Ph.D. in Software Engineering
   date: Sep. 2021 - Jul. 2025
-  - name: Yunnan University
+- name: Yunnan University
   logo: /assets/images/badges/YNU.jpg
   position: M.S. in Software Engineering
   date: Sep. 2018 - Jul. 2021
