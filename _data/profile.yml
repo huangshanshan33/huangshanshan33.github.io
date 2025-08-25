@@ -30,21 +30,24 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/ssh0.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Chongqing University
+  logo: /assets/images/badges/CQU.jpg
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Ph.D. in Software Engineering
+  date: Sep. 2021 - Jul. 2025
+  - name: Yunnan University
+  logo: /assets/images/badges/YNU.jpg
+  position: M.S. in Software Engineering
+  date: Sep. 2018 - Jul. 2021
+- name: Nantong University
+  logo: /assets/images/badges/NTU.jpg
+  position: B.S. in Software Engineering
+  date: Sep. 2014 - Jul. 2018
 
 # experience:
 # - name: Peking University
@@ -53,9 +56,13 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
+- name: Outstanding Graduate of Chongqing
+  date: 2025
+- name: National Scholarship (Ph.D.), Ministry of Education of China
+  date: 2023
+- name: Outstanding Graduate of Yunnan Province
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
+  - name: Outstanding All-Round Student of Yunnan Province
   date: 2021
+- name: National Scholarship (M.Sc.), Ministry of Education of China
+  date: 2020
