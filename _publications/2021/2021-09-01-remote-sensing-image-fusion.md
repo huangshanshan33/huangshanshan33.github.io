@@ -1,7 +1,7 @@
 ---
 title: "Semisupervised Remote Sensing Image Fusion using Multiscale Conditional GAN with Siamese Structure"
 date: 2021-09-01 00:00:00 +0800
-selected: false
+selected: True
 pub: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
 pub_date: "2021"
 abstract: >-
