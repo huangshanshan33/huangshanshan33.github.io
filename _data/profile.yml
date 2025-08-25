@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Shanshan Huang"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/YNU.jpg  # Logo is optional
+  name: Yunnan University
+# - name: Position 2 without logo
 
 
 email: "your@email.com"
