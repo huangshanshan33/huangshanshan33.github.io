@@ -8,7 +8,7 @@ abstract: >-
   We propose a novel text-driven framework that integrates compositional concept learning and counterfactual abduction for fashion image editing. Accepted at CVPR 2025.
 cover:          /assets/images/covers/2025-10-01-text-driven-fashion-image-editing.jpg
 authors:
-  - Shanshan Huang*
+  - Shanshan Huang
   - Haoxuan Li
   - Chunyuan Zheng
   - Mingyuan Ge
