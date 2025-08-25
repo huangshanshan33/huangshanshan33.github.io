@@ -8,7 +8,7 @@ abstract: >-
   This paper proposes a causal intervention-based representation learning method for controllable image editing. Accepted as a CVPR 2025 Highlight paper (top 2.9%).
 cover:          /assets/images/covers/2025-10-01-visual-representation-learning.png
 authors:
-  - Shanshan Huang*
+  - Shanshan Huang
   - Haoxuan Li
   - Chunyuan Zheng
   - Lei Wang
