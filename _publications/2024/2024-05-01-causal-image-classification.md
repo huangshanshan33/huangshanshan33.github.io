@@ -6,9 +6,9 @@ pub: "Knowledge-Based Systems"
 pub_date: "2024"
 abstract: >-
   Multi-attentional causal intervention networks for accurate medical image diagnosis.
-#cover: /assets/images/covers/kbs2024.jpg
+#cover: /assets/images/covers/2024-05-01-causal-image-classification.png
 authors:
-  - Shanshan Huang*
+  - Shanshan Huang
   - Lei Wang
   - Jun Liao
   - Li Liu
