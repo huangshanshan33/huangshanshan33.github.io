@@ -34,7 +34,7 @@ portrait_caption: >-
 
 education:
 - name: Chongqing University
-  logo: /assets/images/badges/CQU.jpg
+  logo: /assets/images/badges/CQU.png
   position: >- 
     Ph.D. in Software Engineering
   date: Sep. 2021 - Jul. 2025
@@ -43,7 +43,7 @@ education:
   position: M.S. in Software Engineering
   date: Sep. 2018 - Jul. 2021
 - name: Nantong University
-  logo: /assets/images/badges/NTU.jpg
+  logo: /assets/images/badges/NTU.png
   position: B.S. in Software Engineering
   date: Sep. 2014 - Jul. 2018
 
