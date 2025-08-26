@@ -5,6 +5,6 @@ date: 2019-01-12 00:01:00 +0800
 group: Cats
 ---
 <div>
-    <img data-src="{{ site.data.profile.portrait_url | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/cat5.jpg' | relative_url }}">
+    <img src="{{ 'assets/images/cat5.jpg' | relative_url }}" class="img-fluid rounded-xl" >
 </div>
 
