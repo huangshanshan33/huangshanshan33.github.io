@@ -5,11 +5,8 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>Welcome to Showcase! ✨ </h2>
     <hr />
-    <p>
-       Welcome to my Showcase section! ✨  
-    </p>
     <p>
     Here I will share some moments outside of research —
     </p>
