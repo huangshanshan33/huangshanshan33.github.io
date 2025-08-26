@@ -8,7 +8,7 @@ date: 2020-01-12 00:01:00 +0800
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
     <p class="card-text">
-      Let’s enjoy it together！！
+      Let’s enjoy it together！
     </p>
   </div>
 </div>
