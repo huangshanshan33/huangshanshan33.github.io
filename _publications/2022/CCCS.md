@@ -1,6 +1,6 @@
 ---
 title: "An Overview of Face Image Forgery Detection"
-date: 2022-01-01 00:00:00 +0800
+date: 2022-01-02 00:00:00 +0800
 selected: false
 pub: "Current Chinese Computer Science"
 pub_date: "2022"
