@@ -1,0 +1,21 @@
+---
+title: "Measuring Cognitive Load by a Score-based Causal Network Model with Multichannel Physiological Signals"
+date: 2025-10-13 00:00:00 +0800
+selected: true
+pub: "Neurocomputing"
+pub_date: "2025"
+abstract: >-
+  A score-based causal network model for measuring cognitive load using multichannel physiological signals.
+cover: /assets/images/covers/neurocomputing2025.jpg
+authors:
+  - Li Liu
+  - Qiwen Pang
+  - Shanshan Huang
+  - Laiming Jiang
+  - Shu Wang
+  - Guang Wu
+  - Guoxin Su
+  - Qing Tao
+links:
+  Paper: https://www.sciencedirect.com/science/article/pii/S0925231225019629
+---
