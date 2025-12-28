@@ -1,1 +1,18 @@
+---
+title: "DualAttendMed: A coarse-to-fine dual-stage attention framework for interpretable disease localization and classification"
+date: 2025-12-15 00:00:00 +0800
+selected: false
+pub: "Expert Systems With Applications"
+pub_date: "—"
+abstract: >-
+  DualAttendMed proposes a coarse-to-fine dual-stage attention framework for interpretable disease localization and classification, enabling accurate prediction while providing clinically meaningful visual explanations.
+cover: /assets/images/covers/dualattendmed.jpg
+authors:
+  - Junaid Abbas
+  - Danyal Badar Soomro
+  - Shanshan Huang
+  - Li Liu
+links:
+  Paper: https://doi.org/10.1016/j.eswa.2025.130886
+---
 
